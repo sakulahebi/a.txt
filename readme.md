@@ -8,3 +8,4 @@
 - git status >>查看新增項目(預覽)
 - git add 檔名>>將修改紀錄存檔
 - git commit -m "修改的功能名稱">>將記錄檔傳入後端
+- git clone URL
